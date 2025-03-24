@@ -104,7 +104,3 @@ if __name__ == "__main__":
 5. **Example Usage:**
    - Accepts user input for a sorted array and a target value.
    - Calls the `search_element` function to search for the target value in the array.
-
-This script allows users to input a sorted array and a target value, and then performs a binary search to find the target value, printing the result.
-
-Made changes.

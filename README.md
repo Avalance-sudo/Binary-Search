@@ -4,7 +4,7 @@ This repository contains a Python implementation of the **binary search algorith
 # What is binary search?
 Binary search is a method for quickly finding a target value in a **sorted** list or array.  
 Instead of checking each element sequentially (like linear search), binary search repeatedly **divides the search range in half**, drastically reducing the number of comparisons needed.  
-This efficiency makes it especially useful for large datasets, achieving a time complexity of O(log n).
+This efficiency makes it especially useful for large datasets, achieving a time complexity of O(log n). 
 
 # Purpose
 

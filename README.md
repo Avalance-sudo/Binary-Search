@@ -42,5 +42,3 @@ By reducing the search space by half with each step, binary search operates in *
 # Conclusion
 
 Binary search is one of the most efficient and widely used search algorithms for sorted data. Its simplicity, combined with its logarithmic performance. Whether implemented iteratively, recursively, or with built-in Python modules like `bisect`, understanding binary search is a crucial step in mastering algorithms and improving problem-solving skills.
-
-This README provides a concise yet comprehensive overview of the binary search algorithm in Python. According to Real Python.
